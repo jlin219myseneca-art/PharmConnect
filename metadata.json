@@ -1,0 +1,6 @@
+{
+  "name": "PharmConnect Collaborative",
+  "description": "Strengthening independent pharmacies in the GTA through a collaborative network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
